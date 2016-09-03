@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "852906209083",
+    "firebase_url": "https://autenticacaofirebase-e7209.firebaseio.com",
+    "project_id": "autenticacaofirebase-e7209",
+    "storage_bucket": "autenticacaofirebase-e7209.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852906209083:android:4074c5fa7fc8db43",
+        "android_client_info": {
+          "package_name": "autenticacaousuario.ivecio.com.autenticacaousuario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852906209083-ck44jrpfm754n417pq3muoal8l1ii8gu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "autenticacaousuario.ivecio.com.autenticacaousuario",
+            "certificate_hash": "34BD39635FACCE963F2358406BF42F5B94350DCF"
+          }
+        },
+        {
+          "client_id": "852906209083-og2i5kmd0v774bm79f650hopkustt379.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSf4kTH8oYyv05FYyCk7rQFNbr_TtDAz0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852906209083-og2i5kmd0v774bm79f650hopkustt379.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
